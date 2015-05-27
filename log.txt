@@ -1,0 +1,2 @@
+27-05-2015 08:52:53: curl ifconfig.me - Executed. 
+27-05-2015 11:11:15: wakeonlan d4:3d:7e:12:82:87 - Executed. 

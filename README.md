@@ -9,7 +9,7 @@ I wrote a python3 script which accesses a random gmail account for new mail, if 
 a) How can this be more efficient?
 b) How can I convert this concept to a web app?  
 
-If you would like a see the source code or implement it on your own Pi contact me directly via email or hangouts.
+Here is the source code. Go have fun with it.
 
 Thanks in advance.
 
